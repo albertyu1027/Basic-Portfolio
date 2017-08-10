@@ -1,0 +1,131 @@
+body {
+	background-color: lightgray;
+}
+
+
+header {
+	font-family:`font-family: 'Georgia', Times, Times New Roman, serif;`;
+	position:relative;
+	bottom:20px;
+	background-color: #ffffff;
+	height: 80px;
+	width: 1600px;
+	margin: 0px;
+	padding: 0px;
+	border-bottom:2px;
+	border-color:#dddddd;
+}
+
+h1 {
+	position:absolute;
+	left:100px;
+	top:-10px;
+	padding:22px;
+	float: left;
+	background-color: #4aaaa5;
+	color:white;
+	
+}
+
+h2 {
+	position:relative;
+	left:800px;
+	bottom: 20px;
+	float: left;
+	padding:26px;
+	color: #777777;
+	font-weight: lighter;
+}
+
+
+#box {
+	height: 350px;
+	width: 60%;
+	background-color: white;
+	color: #4aaaa5;
+	position: absolute;
+	top:100px;
+	margin-left:100px;
+}
+
+h3 {
+	position:relative;
+	left:35px;
+	top:5px;
+}
+
+hr {
+	background-color: gray;
+	height:2px;
+	width:90%;
+	position: relative;
+}
+
+img {
+	position:relative;
+	left:30px;
+	top:15px;
+	width:25%;
+	float:left;
+	margin-right:10px;
+}
+
+p {
+	color:gray;
+	position:relative;
+	top:15px;
+	left:30px;
+	margin-right:70px;
+
+}
+
+#box2 {
+	height: 150px;
+	width: 250px;
+	background-color: white;
+	color: #4aaaa5;
+	position: absolute;
+	left: 105%;
+	top: 0%;
+}
+
+#connect {
+	position: relative;
+	left:20px;
+
+}
+
+#Stackoverflow {
+	width:200px;
+}
+
+#github {
+	width:200px;
+}
+
+#linkedin {
+	width:200px;
+}
+
+#FOOT{
+	position: relative;
+	top:500px;
+	padding:20px;
+	height:50px;
+	text-align:center;
+	background-color: #4aaaa5;
+	width: 1550px;
+	margin: 0px;
+}
+
+footer {
+	position: absolute;
+	top:10px;
+	left:0px;
+	height:30px;
+	background-color: #666666;
+	width: 1530px;
+	margin: 0px;
+	padding:30px;
+}
+
