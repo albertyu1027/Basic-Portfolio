@@ -41,7 +41,7 @@ h2 {
 
 
 #box {
-	height: 350px;
+	height: 450px;
 	width: 46.5%;
 	background-color: white;
 	color: #4aaaa5;
@@ -54,6 +54,7 @@ h3 {
 	position:relative;
 	left:35px;
 	top:20px;
+	font-weight:bold;
 }
 
 h4 {
@@ -102,10 +103,40 @@ p {
 	top: 0%;
 }
 
+.smallbox {
+	background-color: #4aaaa5;
+	text-align: center;
+	color:white;
+	position:absolute;
+	padding:10px;
+	left: 30px;
+	top: 80px;
+	width:21%;
+}
+
+.smallbox2 {
+	background-color: #4aaaa5;
+	text-align: center;
+	color:white;
+	position:absolute;
+	padding:10px;
+	left:150px;
+	top: 80px;
+	width:21%;
+}
+
 #connect {
 	position: relative;
 	left:20px;
 
+}
+
+
+
+#ALBERT {
+	width:100%;
+	position: relative;
+	top:20px;
 }
 
 #Stackoverflow {
